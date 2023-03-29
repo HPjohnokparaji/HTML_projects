@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <style>
+  table{border: 1px solid black;
+    border-collapse: collapse;}
+    th,tr,td{border: 1px solid black}
+  </style>
+</head>
+
+<body>
+<center><h1>TIME TABLE</h1><hr>
+</center>
+<table>
+  <tr>
+    <th rowspan="2">Days</th>
+   <th colspan="9">Time</th>
+    </tr>
+    <tr>
+  <td> 8-9</td>
+  <td> 9-10</td>
+  <td> 10-11</td>
+  <td> 11-12</td>
+  <td> 12-1</td>
+  <td> 1-2</td>
+  <td> 2-3</td>
+  <td> 3-4 </td>
+  <td> 4-5</td>
+    </tr>
+      <tr>
+        <td>Monday</td>
+        <td>Devotion</td>
+        <td>GNS 101</td>
+        <td colspan="2">MTH 112</td>
+        <td> CTE 114</td>
+        <td colspan="2"> MEC 101</td>
+        <td></td>
+        <td></td>
+       
+      </tr>
+     <tr>
+       <td>Tuesday </td>
+       <td colspan="2">EEC 115</td>
+       <td colspan="2">CTE 112 </td>
+       <td></td>
+       <td colspanpan="2">CTE 112</td>   
+       </tr>
+        <tr>
+          <td>Wednesday </td>
+          <td colspan="2">EEC 112/CTE113</td>
+          <td colspan="2">EEC 117/CTE 111 </td>
+          <td>MEC 101</td>
+          <td></td>
+          <td></td>
+          <td>GNS 101</td>
+          <td></td>
+          </tr>
+         <tr>
+           <td>Thursday</td>
+           <td colspan="2">CTE 113</td>
+           <td>MTH 112 </td>
+           <td colspan="2"><center>CTE 114</center></td>
+           <td colspan="2">MEC 112/113</td>
+         </tr>
+          <tr>
+            <td> Friday</td>
+            <td colspan="2">MEC 113</td>
+            <td colspan="2">CTE 111 </td>
+            <td></td>
+            <td>EEC 115</td>
+            <td colspan="2"><center>CTE 112</center></td>
+          </tr>
+    
+</body>
