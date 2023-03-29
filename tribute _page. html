@@ -1,0 +1,23 @@
+
+<! DocType <!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <style>
+h1{color:red;} 
+p{color:blue;} 
+  </style>
+<table>
+  <body>
+    <center>id=""
+      <h1>Michael Jackson </h1>
+      <p>Michael Jackson was an artist</p>
+<img src="im.jpeg" width="400px" height="400px" alt="Michael Jackson picture">
+<p>he was the king of pop music</p>
+</br>
+<ol>
+  <li>he was born in the year 1958 and he died in the year 2009</li>
+  <li>song writer and dancer </li>
+<li>he has three kids </li>
+<li>he is an American singer </li>
+<li>michael Jackson death was course by surgery</li>
