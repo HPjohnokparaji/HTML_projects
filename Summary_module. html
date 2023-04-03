@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <style>
+    h2{background-image: linear-gradient(to bottom, blue 100px, yellow 40px) ;padding: 27px;} 
+    table {border: 1px solid black;border-collapse: collapse;} 
+    tr, td{border:1px solid black}.com{position: right} 
+    </table>
+  </style>
+</head>
+</head>
+<body>
+<h2 style ="color: white; "><center><u> project by (John okparaji mbie</u>)</center> </p></h2>
+</body>
+<center>
+<table>
+  <tr>
+    <td>DEPARTMENT OF ENGINEERING<ol>
+      <li> Computer Engineering </li>
+      <li> Electrical Engineering</li>
+      <p>TABLE of Tables</p>
+      </ol>
+      </td>
+    <td> This cell contains a 2×2 table
+    <table>
+      <tr>
+        <td>A</td>
+        <td>B</td>
+        <tr>
+          <td>C</td>
+          <td>D</td>
+          </tr>
+         </table>
+         <tr>
+           <td>this cell contains a list <ul>
+             <li>HTML </li>
+             <li>css</li>
+             <li>java scripts </li>
+             <li>Internet and wedtechnology </li>
+             </ul>
+             </td>
+             <td>HELLO my name is( John okparaji mbie) </td>
+             </td>
+               </tr>
+                 <table>
+                   <tr>
+                     <h3></h3>
+                   </tr>
+                   </table>
+                     </body>
+                   
